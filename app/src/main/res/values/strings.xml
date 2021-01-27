@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="kgs">kgs</string>
+    <string name="lbs">lbs</string>
+    <string name="take_photo">Take photo</string>
+    <string name="gallery">Gallery</string>
+    <string name="back">BACK</string>
+    <string name="next">NEXT</string>
+    <string name="weight">Weight</string>
+    <string name="dob">DOB</string>
+    <string name="edit">EDIT</string>
+    <string name="no_clients_yet">No clients yet</string>
+    <string name="add_client">ADD CLIENT</string>
+	<string name="main_screen">Main Screen</string>
+	<string name="date">date</string>
+	<string name="finish">FINISH</string>
+    <string name="enter_data">Enter Data</string>
+    <string-array name="stepLabels">
+        <item>Enter Body Weight</item>
+        <item>Enter Date Of Birth</item>
+        <item>Photo</item>
+    </string-array>
+</resources>
